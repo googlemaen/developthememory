@@ -1,5 +1,5 @@
 ### Privacy Policy
-We respects your privacy. This Privacy Policy is intended to inform you about how we handle your information.
+"Develop The Memory" respects your privacy. This Privacy Policy is intended to inform you about how we handle your information.
 
 ### Information We Do Not Collect
 - We do not collect, store, or share any personal data through our application.
